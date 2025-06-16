@@ -73,4 +73,4 @@ Time Machine was made with custom-coded firmware written with the KMK library in
 * 1x case_btm.stl
 * 3x M3x16 screw
 * 4x 10mm Rubber Feet
-
+* 3x M3x5x4mm heatset inserts
